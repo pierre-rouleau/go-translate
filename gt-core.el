@@ -1003,7 +1003,7 @@ Bind VAR to item of ITEMS which can be used in BODY."
   "Translation languages or targets.
 
 This is a list which element is a language string or symbol described in
-ISO 939-1. The taker will use this to determine the translate source and target.
+ISO 639-1. The taker will use this to determine the translate source and target.
 
 For example, if you want to translate between a and b, just set like:
 
